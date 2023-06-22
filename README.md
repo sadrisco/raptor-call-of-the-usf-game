@@ -3,6 +3,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1QgJmD2O3J3OLhXgRkMqIvkjzDKJYcmfs" width="400">
 </p>
 
+[Acesse o jogo aqui](https://raptor-call-of-the-usf-web.vercel.app/)
+
 <h2>🕹 Sobre o projeto</h2>
 Raptor: Call of the USF é um jogo no estilo space shooter que tem como objetivo atingir naves inimigas que surgem de forma aleatória na tela.<br>
 
